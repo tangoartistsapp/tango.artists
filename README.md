@@ -1,2 +1,1 @@
-# tango.artists
 Tango Artists
